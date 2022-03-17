@@ -50,7 +50,7 @@ One of the teaching faculty has set up four overnight LB + kan cultures of bacte
 3.  Balance the eppendorf tubes in the microfuge, and then spin them for one minute.
 4.  Aspirate the supernatant, as shown, removing as few cells as possible.
     
-    {{< resource 93a0ca82-246f-dce6-6e66-4a067070415f "Schematic showing how to aspirate the supernatant." >}}
+    {{< resource "93a0ca82-246f-dce6-6e66-4a067070415f" >}}
     
     Aspirate the supernatant, as shown, removing as few cells as possible. Make sure to use a yellow pipet tip on the aspirator and change between samples. (Figure by MIT OpenCourseWare.)
     

@@ -19,7 +19,7 @@ Modules: {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "1.1" %}} | {{% 
 Introduction
 ------------
 
-{{< resource 1937de87-dab9-267b-fb14-f9e1440844ac "Creative drawing of whimsical creatures and a DNA double helix." >}}
+{{< resource "1937de87-dab9-267b-fb14-f9e1440844ac" >}}
 
 Image courtesy of Justin Lo. Used with permission.
 
