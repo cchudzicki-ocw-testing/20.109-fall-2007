@@ -210,9 +210,9 @@ The bacterial strains will be lysed to release all their proteins.
 
 You will use the plaque assay to titer the supernatant from the candidate strains you are following. This will allow you to determine (if/how many) phage have been secreted by your cells carrying the modified p3 phage protein. You will include a positive and negative control for the assay as well.
 
-1.  Titer the supernatant from the candidates you're running on the SDS-PAGE, examining dilutions that are 10{{< sup "\\-8" >}}, 10{{< sup "\\-10" >}}, and 10{{< sup "\\-12" >}} of the starting concentration.
+1.  Titer the supernatant from the candidates you're running on the SDS-PAGE, examining dilutions that are 10{{< sup "\-8" >}}, 10{{< sup "\-10" >}}, and 10{{< sup "\-12" >}} of the starting concentration.
 2.  As a negative control, you should set up a plate with bacteria and top agar but without any phage.
-3.  As a positive control, you should set up a plate with bacteria and top agar and 10 µl of 10{{< sup "\\-8" >}} dilution of the supernatant from the M13KO7-infected cells you're running on the SDS-PAGE.
+3.  As a positive control, you should set up a plate with bacteria and top agar and 10 µl of 10{{< sup "\-8" >}} dilution of the supernatant from the M13KO7-infected cells you're running on the SDS-PAGE.
 4.  Consult your lab notebook or the protocol from day 2 of this module ({{% resource_link 0a3fc94e-dd53-6ee2-6aaf-17593e9a9a7d "Agarose gel electrophoresis" %}}) if you need reminding about how to perform the plaque assay.
 
 DONE!

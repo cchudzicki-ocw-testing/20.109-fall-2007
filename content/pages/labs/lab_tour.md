@@ -154,7 +154,7 @@ The information and exercises provided here are intended to refresh your memory 
 
 This is the numerical language of science. Base units that you will most often use in this class are meters, grams, liters, and moles. These units will be appended with prefixes to modify the unit by a power of ten.
 
-10{{< sup "3" >}}  = 1000     = 1000/1    = 10{{< sup "3" >}}/1   kilo (k-) 10{{< sup "0" >}}  = 1        = 1/1       = 10{{< sup "0" >}} /1  base unit (-g, -l, -mole…) 10{{< sup "\\-3" >}} = 0.001    = 1/1000    = 1/10{{< sup "3" >}}   milli (m-) 10{{< sup "\\-6" >}} = 0.000001 = 1/1000000 = 1/10{{< sup "6" >}}   micro (µ-)
+10{{< sup "3" >}}  = 1000     = 1000/1    = 10{{< sup "3" >}}/1   kilo (k-) 10{{< sup "0" >}}  = 1        = 1/1       = 10{{< sup "0" >}} /1  base unit (-g, -l, -mole…) 10{{< sup "\-3" >}} = 0.001    = 1/1000    = 1/10{{< sup "3" >}}   milli (m-) 10{{< sup "\-6" >}} = 0.000001 = 1/1000000 = 1/10{{< sup "6" >}}   micro (µ-)
 
 Practice problems:
 
@@ -163,7 +163,7 @@ Practice problems:
 3.  The volume you want to measure is 100 ml. How many liters is that?
 4.  Your reaction generates 0.1 µmoles of product. How many mmoles is that?
 
-Scientific notation expresses numbers so there is one digit to the left of the decimal point and that number is multiplied by a power of ten. 2334 becomes 2.334 x 10{{< sup "3" >}} and 0.0041 becomes 4.1 x 10{{< sup "\\-3" >}}. Computations are easier with numbers in scientific notation and some numbers that are easier to write (602,214,199,000,000,000,000,000 versus 6.02 x 10{{< sup "23" >}}).
+Scientific notation expresses numbers so there is one digit to the left of the decimal point and that number is multiplied by a power of ten. 2334 becomes 2.334 x 10{{< sup "3" >}} and 0.0041 becomes 4.1 x 10{{< sup "\-3" >}}. Computations are easier with numbers in scientific notation and some numbers that are easier to write (602,214,199,000,000,000,000,000 versus 6.02 x 10{{< sup "23" >}}).
 
 Practice problems:
 
